@@ -1,0 +1,3 @@
+Python é legal
+Bubble sort é lento
+Selection sort também funciona
